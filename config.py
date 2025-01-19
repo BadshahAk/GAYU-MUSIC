@@ -15,7 +15,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","Unofficial_Legend")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","A_GRobot")
+BOT_USERNAME = getenv("BOT_USERNAME","GayatriRobot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -88,7 +88,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/w5jptl.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/b85sed.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/9l9exl.jpg"
